@@ -2,7 +2,7 @@
 
 Meu nome é milene gabriela 
 
-- Estou estudando no E.E joaquim Moreira Bernardes
+- Estou estudando no Alura
 - Estou me desenvolvendo na linguagem de JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
