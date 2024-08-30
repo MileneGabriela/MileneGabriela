@@ -2,7 +2,7 @@
 
 Meu nome é milene gabriela 
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem de JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos
 
